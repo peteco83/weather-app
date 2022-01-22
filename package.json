@@ -12,6 +12,6 @@
   "author": "peteco83",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   }
 }
